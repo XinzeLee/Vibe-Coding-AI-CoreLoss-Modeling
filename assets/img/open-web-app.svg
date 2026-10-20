@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="52" viewBox="0 0 236 52" role="img" aria-labelledby="title">
+  <title id="title">Open web app</title>
+  <rect width="236" height="52" rx="10" fill="#173047"/>
+  <text x="27" y="33" fill="#fff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" font-weight="650">Open web app</text>
+  <path d="M190 26h19m-7-7 7 7-7 7" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

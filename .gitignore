@@ -1,0 +1,10 @@
+.wrangler/
+node_modules/
+.dev.vars
+.env
+hosting/cloudflare-counter/.wrangler/
+
+# Local source archives and generated publication packages
+.private-stage2/
+dist/
+
